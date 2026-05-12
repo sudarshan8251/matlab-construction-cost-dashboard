@@ -1,2 +1,2 @@
-# matlab-construction-cost-dashboard
-MATLAB application for civil engineering cost estimation. Features dynamic user inputs, real-time data visualization, and automated data logging to Excel/CSV for project record-keeping.
+Construction Cost Estimation Dashboard built in MATLAB — 
+interactive GUI with Excel export and live cost breakdown chart
